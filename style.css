@@ -1,0 +1,34 @@
+#img1{
+    height:300px;
+    width:300px;
+    text-align: center;
+    box-shadow: 5px 5px 5px gray;
+}
+#header_span{
+    text-align: center;
+    display: inline;
+    color: indianred;
+    font-size: 100px;
+    background-color: limegreen;
+}
+#footer-header{
+    display:inline;
+    color: orange;
+    text-align: center;
+    font-size: 250px;
+}
+
+#golden_mem{
+    box-shadow:5px 5px 5px maroon;
+    height: 300px;
+    width:300px;
+}
+body{
+    background-color: midnightblue;
+    text-align: center;
+}
+
+#happy_bday{
+    height:250px;
+    width: 300px;;
+}
